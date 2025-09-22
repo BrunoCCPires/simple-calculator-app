@@ -1,0 +1,1 @@
+Basic calculator implementation with standard arithmetic operations. The calculator supports basic math operations (+, -, *, /), decimal numbers, and includes a clear function. The UI is styled with CSS Grid for the button layout.
